@@ -7,4 +7,4 @@ For processsed files, please go to [zenodo pages](https://zenodo.org/records/105
 
 # Citation
 
-Wang, Wen, et al. "ADNP Modulates SINE B2-Derived CTCF-Binding Sites during Blastocyst Formation in Mouse." *BioRxiv* (2023): 2023-11. https://www.biorxiv.org/content/early/2023/11/24/2023.11.24.567719
+Wang, Wen, et al. "ADNP Modulates SINE B2-Derived CTCF-Binding Sites during Blastocyst Formation in Mouse." *Genes Dev* (2024). https://genesdev.cshlp.org/lookup/doi/10.1101/gad.351189.123
